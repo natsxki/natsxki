@@ -3,8 +3,7 @@
 ✿ I’m an engineering student interested in game development and procedural content generation. 
 
 ✿ Current projects : 
-Soccer Ball tracking from real time video with YOLOv9 on Python
-Entire Game from scratch on UE5 (mostly Blueprint), including Design, Storyline, Programming
+Python/YOLOv9 : Soccer Ball tracking from real time video ; UE5/Blueprint : Entire Game from scratch (Design, Storyline & dev)
 
 ✿ Languages : 
 Japanese, French, English, German, and a little bit of Spanish :)
