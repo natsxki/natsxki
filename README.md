@@ -1,15 +1,5 @@
-✿ Hi there, i'm Natsuki (๑•̀ㅂ•́)ง✧
+## Hi there!
 
-✿ I’m a computer science student interested in game development and procedural content generation. 
+I'm Lylia, a 4th year CS Student in France. I'm passionate about 3D Graphics and Image Processing, and learning about AI <3
 
-✿ Current projects : 
-Learning OpenGL
-
-✿ Languages : 
-Japanese, French, English, German, and a little bit of Chinese and Spanish :)
-
-
-<!---
-natsxki/natsxki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub :)
