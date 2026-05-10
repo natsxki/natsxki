@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i'm lylia ˙𐃷˙
+# hi, i'm lylia ^. .^
 
 **4th year CS student, quadrilingual & based in Paris**
 
@@ -50,18 +50,7 @@
 thanks for stopping by :b
 </div>
 
-<div style="size:3px"> psst i'm always opened to new oppotunities :b 
+<div style="font-size:3px"> psst i'm always opened to new oppotunities :b lmk!
 i'm passionate about AI, Computer Vision & 3D, but honestly curious about anything
-I've worked on urban data, accessibility, sports & more</div>
-
-
-### github stats??
-
-<div align="center">
-
-![Lylia's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsxki&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c084a0&icon_color=f472b6&text_color=6b3a5a)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsxki&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c084a0&text_color=6b3a5a)
-
-</div>
+I've worked on urban data, accessibility, sports & more. </div>
 
