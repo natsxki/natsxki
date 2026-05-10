@@ -2,10 +2,7 @@
 
 # hi, i'm lylia ^. .^
 
-**4th year CS student, quadrilingual & based in Paris**
-
-*passionate about solving real life problems* 
-
+**4th year CS student specialized in Data/AI and how they can interact with 3D graphics - quadrilingual & based in Paris**
 
 </div>
 
