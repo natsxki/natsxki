@@ -4,7 +4,7 @@
 
 **4th year CS student, quadrilingual & based in Paris**
 
-*turning raw data into meaning, one model at a time, to solve real life problems* 
+*passionate about solving real life problems* 
 
 
 </div>
@@ -50,7 +50,5 @@
 thanks for stopping by :b
 </div>
 
-<div style="font-size:3px"> psst i'm always opened to new oppotunities :b lmk!
-i'm passionate about AI, Computer Vision & 3D, but honestly curious about anything
-I've worked on urban data, accessibility, sports & more. </div>
+<sub><sup>psst i'm always open to new opportunities- lmk!!</sup></sub>
 
