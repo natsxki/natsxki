@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i'm lylia ^. .^
+# hi, i'm lylia!!
 
 **CS Master's student passionate about AI and how it can interact with 3D graphics - quadrilingual & based in Paris**
 
@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-f7c5d5?style=for-the-badge&logo=python&logoColor=c084a0)
 ![Java](https://img.shields.io/badge/Java-fde68a?style=for-the-badge&logo=openjdk&logoColor=92400e)
 ![C++](https://img.shields.io/badge/C++-d9f99d?style=for-the-badge&logo=cplusplus&logoColor=365314)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)]
 ![C](https://img.shields.io/badge/C-bfdbfe?style=for-the-badge&logo=c&logoColor=1e40af)
 ![SQL](https://img.shields.io/badge/SQL-f7c5d5?style=for-the-badge&logo=postgresql&logoColor=c084a0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fde68a?style=for-the-badge&logo=javascript&logoColor=92400e)
