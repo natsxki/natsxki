@@ -13,11 +13,11 @@
 ![Python](https://img.shields.io/badge/Python-f7c5d5?style=for-the-badge&logo=python&logoColor=c084a0)
 ![Java](https://img.shields.io/badge/Java-fde68a?style=for-the-badge&logo=openjdk&logoColor=92400e)
 ![C++](https://img.shields.io/badge/C++-d9f99d?style=for-the-badge&logo=cplusplus&logoColor=365314)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)]
-![C](https://img.shields.io/badge/C-bfdbfe?style=for-the-badge&logo=c&logoColor=1e40af)
-![SQL](https://img.shields.io/badge/SQL-f7c5d5?style=for-the-badge&logo=postgresql&logoColor=c084a0)
-![JavaScript](https://img.shields.io/badge/JavaScript-fde68a?style=for-the-badge&logo=javascript&logoColor=92400e)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-d9f99d?style=for-the-badge&logo=html5&logoColor=365314)
+![C#](https://img.shields.io/badge/C%23-bfdbfe?style=for-the-badge&logo=csharp&logoColor=1e40af)
+![C](https://img.shields.io/badge/C-f7c5d5?style=for-the-badge&logo=c&logoColor=c084a0)
+![SQL](https://img.shields.io/badge/SQL-fde68a?style=for-the-badge&logo=postgresql&logoColor=92400e)
+![JavaScript](https://img.shields.io/badge/JavaScript-d9f99d?style=for-the-badge&logo=javascript&logoColor=365314)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-bfdbfe?style=for-the-badge&logo=html5&logoColor=1e40af)
 
 **AI & data science**
 
