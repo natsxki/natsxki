@@ -43,5 +43,5 @@
 ![Arduino](https://img.shields.io/badge/Arduino-fde68a?style=for-the-badge&logo=arduino&logoColor=92400e)
 
 
-<sub><sup>psst i'm always open to new opportunities- lmk!!</sup></sub>
+<sub><sup>always open to new opportunities - lmk!!</sup></sub>
 
