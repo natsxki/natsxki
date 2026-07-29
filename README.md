@@ -2,7 +2,7 @@
 
 # hi, i'm lylia!!
 
-**CS Master's student passionate about AI and how it can interact with 3D graphics - quadrilingual & based in Paris**
+**CS Master's student passionate about how to make technology intuitive - quadrilingual & based in Paris**
 
 </div>
 
