@@ -4,6 +4,8 @@
 
 **CS Master's student passionate about how to make technology intuitive - quadrilingual & based in Paris**
 
+My portfolio : ![🐤]((https://natsxki.github.io/portfolio/))
+
 </div>
 
 ### my toolbox
