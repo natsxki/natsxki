@@ -2,7 +2,7 @@
 
 # hi, i'm lylia!!
 
-**CS Master's student passionate about how to make technology intuitive - quadrilingual & based in Paris**
+**CS Master's student passionate about how to make technology intuitive and useful to everyone - quadrilingual & based in Paris**
 
 My portfolio : [🐤](https://natsxki.github.io/portfolio/)
 
